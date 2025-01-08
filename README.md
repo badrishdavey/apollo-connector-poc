@@ -23,7 +23,7 @@ This repository demonstrates a Data Mesh implementation using Apollo GraphQL for
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/data-product-demo
+git clone https://github.com/badrishdavey/apollo-connector-poc
 cd data-product-demo
 ```
 
